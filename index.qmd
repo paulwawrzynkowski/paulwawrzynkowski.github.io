@@ -1,0 +1,23 @@
+<div class="full-bleed-banner-home">
+  ![](images/sea-home.jpg){.home-banner}
+</div>
+
+# Paul Wawrzynkowski
+
+**Marine Ecologist | PhD in Marine Sciences**
+
+Working across marine biodiversity conservation, maritime policy, and the governance of human activities at sea.
+
+I am currently part of the Green Transition Advocacy Unit at SEO/BirdLife, where I focus on policy and advocacy across maritime sectors in Spain, particularly offshore wind, fisheries, and marine spatial planning.
+
+My background combines marine ecology research, environmental assessment, data analysis, and science-informed advocacy, with a strong interest in how ecological knowledge can support better decision-making in the context of the climate and biodiversity crises.
+
+**Profiles & contact**
+
+<div class="profile-links">
+  <a href="mailto:paul.wawrzynkowski@gmail.com" class="profile-pill">✉ Email</a>
+  <a href="https://orcid.org/0000-0002-3162-8023" class="profile-pill" target="_blank">ORCID</a>
+  <a href="https://scholar.google.fr/citations?user=9cMEdbQAAAAJ&hl=ca" class="profile-pill" target="_blank">Scholar</a>
+  <a href="https://www.researchgate.net/profile/Paul-Wawrzynkowski" class="profile-pill" target="_blank">ResearchGate</a>
+  <a href="https://www.linkedin.com/in/paul-wawrzynkowski/" class="profile-pill" target="_blank">LinkedIn</a>
+</div>

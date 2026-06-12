@@ -1,0 +1,45 @@
+
+<div class="full-bleed-banner-about">
+  <img src="images/offshore-banner.jpg" class="about-banner">
+</div>
+
+---
+title: "About me"
+---
+
+
+::: {.columns .about-intro}
+::: {.column width="32%"}
+
+![](images/rne-interview.jpeg){.about-photo}
+
+:::
+
+::: {.column width="68%"}
+**Marine Policy and Advocacy Officer - SEO/BirdLife**
+
+I am a marine ecologist working to ensure that the energy transition and other human uses of the sea are compatible with the protection of marine biodiversity.
+
+I currently work in the **Green Transition Advocacy Unit at SEO/BirdLife**, where I focus on **policy and advocacy across maritime sectors** in Spain. My work currently centres on issues related to **offshore wind**, **fisheries**, and the broader governance of marine space, with a growing emphasis on **marine spatial planning** and the role of ecology in decision-making processes.
+
+:::
+:::
+
+I hold a **PhD in Marine Sciences** from the **University of Barcelona**. My doctoral research examined the ecological implications of floating offshore wind development in the Mediterranean, with a particular focus on **Cap de Creus** and the **Gulf of Roses**. This work explored how renewable energy infrastructure may affect vulnerable species, commercial fisheries, and marine habitats in the context of the climate and biodiversity crises.
+
+Before that, I worked in technical and research roles at the **University of Girona** and **CEAB-CSIC**, where I studied littoral reef health and the impacts of climate change on marine ecosystems.
+
+My background combines marine ecology, environmental assessment, and science-informed advocacy. I am particularly interested in the **science-policy interface**, **marine spatial planning**, and the ways in which ecological knowledge can contribute to more coherent and responsible governance of maritime activities.
+
+I have also received training in **Science Diplomacy** and **Maritime Spatial Planning**, and I take part in policy and stakeholder processes related to the planning and management of marine space.
+
+## Areas of interest
+
+- Marine ecology  
+- Offshore wind and marine biodiversity  
+- Fisheries and marine conservation  
+- Marine spatial planning  
+- Data analysis
+- Environmental impact assessment  
+- Science-policy interface  
+- Maritime governance  

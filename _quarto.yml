@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Paul Wawrzynkowski"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About me
+      - href: research.qmd
+        text: Publications
+      - href: CV.qmd
+        text: CV
+
+
+format:
+  html:
+    theme: litera
+    toc: false
+    css: styles.css
+    fontsize: 1.1em

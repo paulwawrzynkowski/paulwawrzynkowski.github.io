@@ -1,0 +1,112 @@
+---
+title: "Publications"
+---
+
+<div class="full-bleed-banner-publications">
+<img src="images/fishers-publications.jpg" class="publications-banner">
+</div>
+
+## Scientific publications
+
+### Forthcoming
+
+- **Wawrzynkowski, P.**  
+  *Offshore wind as a test case for equity in Mediterranean maritime spatial planning*.  
+  Scientia Marina. (In review)
+  
+- Garcia, L., Vila-Subirós, J., Lloret, J., Sardá, R., **Wawrzynkowski, P.**  
+  *Integrating place-based perceptions into offshore wind planning: Evidence from the north-western Mediterranean*.  
+  Marine policy. (In review)
+
+### 2026
+
+- Garcia, L., Vila-Subirós, J., Lloret, J., Sardá, R., **Wawrzynkowski, P.**  
+  *Stakeholder mapping and early detection of tensions in offshore wind development: A press analysis in the Gulf of Roses and Cap de Creus (NW Mediterranean)*.  
+  Marine Policy. DOI: [10.1016/j.marpol.2025.106978](https://doi.org/10.1016/j.marpol.2025.106978)
+
+- **Wawrzynkowski, P.**, Sabatés, A., Lloret, J.  
+  *Balancing wind energy expansion and fisheries in the Mediterranean Sea: A trait-based assessment of vulnerability to floating offshore wind farms for commercially important species*.  
+  Marine Environmental Research. DOI: [10.1016/j.marenvres.2025.107770](https://doi.org/10.1016/j.marenvres.2025.107770)  
+  
+### 2025
+
+- **Wawrzynkowski, P.**, Molins, C., Lloret, J.  
+  *Assessing the potential impacts of floating offshore wind farms on policy-relevant species: A case study in the Gulf of Roses (NW Mediterranean)*.  
+  Marine Policy. DOI: [10.1016/j.marpol.2024.106518](https://doi.org/10.1016/j.marpol.2024.106518)  
+
+- Lloret, J., **Wawrzynkowski, P.**, Sardá, R., Rigall, R., Mujal-Colilles, A.  
+  *The new wave of ocean industrialization and the challenges for biodiversity conservation in the Mediterranean Sea: the case of the Costa Brava*.  
+  Scientific Reports. DOI: [10.1038/s41598-025-15279-z](https://doi.org/10.1038/s41598-025-15279-z)  
+
+
+### 2024
+
+- Arriaga, O., **Wawrzynkowski, P.**, Muguerza, N., Díez, I., Gorostiaga, J.M., et al.  
+  *The thermal journey of macroalgae: Four decades of temperature-induced changes in the southeastern Bay of Biscay*.  
+  Marine Environmental Research. DOI: [10.1016/j.marenvres.2024.106351](https://doi.org/10.1016/j.marenvres.2024.106351)  
+
+- Arriaga, O., **Wawrzynkowski, P.**, Muguerza, N., Díez, I., González, J., et al.  
+  *Thermal refugia reinforce macroalgal resilience against climate change in the southeastern Bay of Biscay*.  
+  Global Change Biology. DOI: [10.1111/gcb.17481](https://doi.org/10.1111/gcb.17481)  
+
+
+### 2023
+
+- Lloret, J., **Wawrzynkowski, P.**, Dominguez-Carrió, C., Sardá, R., Molins, C., et al.  
+  *Floating offshore wind farms in Mediterranean marine protected areas: a cautionary tale*.  
+  ICES Journal of Marine Science. DOI: [10.1093/icesjms/fsad131](https://doi.org/10.1093/icesjms/fsad131)  
+
+- **Wawrzynkowski, P.**, Bustamante, M., Tajadura, F.J., Becerro, M.A.  
+  *Evaluating ocean health and restoration success: A comprehensive study of the benthic quality index in the Bilbao estuary*.  
+  Estuarine, Coastal and Shelf Science. DOI: [10.1016/j.ecss.2023.108454](https://doi.org/10.1016/j.ecss.2023.108454) 
+
+- Arriaga, O., **Wawrzynkowski, P.**, Ibáñez, H., Muguerza, N., Díez, I., et al.  
+  *Short-term response of macroalgal communities to ocean warming in the Southern Bay of Biscay*.  
+  Marine Environmental Research. DOI: [10.1016/j.marenvres.2023.106098](https://doi.org/10.1016/j.marenvres.2023.106098)
+
+## Technical reports
+
+- Amorós Garcia, L., Lloret, J., Vila Subirós, J., **Wawrzynkowski, P.**  
+  *Guía para el desarrollo sostenible de la eólica marina en el Mediterráneo español*.  
+  Report. DOI: [10.33115/b///9788499847382](https://doi.org/10.33115/b///9788499847382)  
+  
+## Thesis
+
+- **Wawrzynkowski, P.**  
+  *Ecological impacts of floating offshore wind development in the Mediterranean in the context of climate and biodiversity crisis*.  
+  PhD thesis. Universitat de Barcelona. URI: [10261/429573](http://hdl.handle.net/10261/429573)  
+  
+## Science communication
+
+- Lloret, J., **Wawrzynkowski, P.**, Garcia, L., Turiel, A., Sabatés, A., et al.  
+  *Certeses i incerteses de l’eòlica marina a Espanya*.  
+  Mètode: Revista de difusió de la investigació. [Link](https://metode.cat/revistes-metode/article/eolica-marina-espanya-certeses-incerteses.html)
+  
+## Conference contributions
+### Oral presentations
+
+- Ocean Decade Conference 2024 – Marine Protected Areas Forum (Barcelona, Spain)  
+  *Presentation of the BIOPAIS project and assessment of offshore wind impacts in Mediterranean marine protected areas*  
+  **Wawrzynkowski, P.**, Garcia, L.
+  
+- ISMS 2024 International Symposium on Marine Science (Valencia, Spain)  
+  *Assessing the impact of offshore wind farms on Mediterranean commercial fisheries: a trait-based vulnerability analysis*  
+  **Wawrzynkowski, P.**, Lloret, J.
+  
+- ISMS 2022 International Symposium on Marine Science (Las Palmas de Gran Canaria, Spain)  
+  *The Mediterranean Sea, one of the world areas at highest risk from climate change*  
+  **Wawrzynkowski, P.**, Becerro, M.A.
+  
+- ECSA 58 & EMECS 13 Estuaries and coastal seas in the anthropocene 2021 (Online)  
+  *Using macroinvertebrates to assess the health of estuaries and coastal reefs*  
+  **Wawrzynkowski, P.**, Becerro, M.A.
+  
+### Posters presentations
+
+- ICES annual science conference 2023 (Bilbao, Spain)  
+  *Ecological assessment of floating offshore wind farms in the Mediterranean sea: implications for vulnerable species conservation*  
+  **Wawrzynkowski, P.**, Lloret, J.
+  
+- ASLO 2023 Aquatic sciences meeting (Palma de Mallorca, Spain)  
+  *Assessing the potential impact of floating offshore wind farms on vulnerable species in the Mediterranean Sea*  
+  **Wawrzynkowski, P.**, Lloret, J.
