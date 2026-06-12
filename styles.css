@@ -1,0 +1,174 @@
+body,
+main,
+main p,
+main li,
+main ul,
+main ol,
+.content,
+.content p,
+.content li,
+.quarto-container,
+.quarto-container p,
+.quarto-container li {
+  font-family: "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 1.05rem;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.quarto-title h1 {
+  color: white !important;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+.quarto-title-banner {
+  background: transparent;
+}
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.8rem;
+}
+
+.profile-pill {
+  display: inline-block;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid #d9dee3;
+  border-radius: 999px;
+  background-color: transparent;
+  color: #1f2d3d;
+  text-decoration: none !important;
+  font-family: "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 0.92rem;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.profile-pill:hover {
+  background-color: #f5f7f9;
+  text-decoration: none !important;
+  color: #10202f;
+}
+
+.about-intro {
+  margin-bottom: 1.6rem;
+  align-items: flex-start;
+}
+
+.about-intro > .column:last-child {
+  padding-left: 1.8rem;
+}
+
+.about-photo {
+  width: 95%;
+  border-radius: 0px;
+  display: block;
+  margin-top: 0.2rem;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+/* Navbar encima de la foto */
+#quarto-header .navbar {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  position: relative;
+  z-index: 10;
+  margin-bottom: 0;
+}
+
+/* Texto de la navbar sobre la imagen */
+#quarto-header .navbar-brand,
+#quarto-header .nav-link,
+#quarto-header .nav-link.active {
+  color: white !important;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+/* Banner a ancho completo */
+.full-bleed-banner-home {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+
+  /* sube la imagen para que quede detrás de la navbar */
+  margin-top: -9rem;
+
+  margin-bottom: 1.8rem;
+}
+
+/* Imagen del banner */
+.home-banner {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  object-position: center 85%;
+  display: block;
+}
+
+.full-bleed-banner-about {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+
+  /* sube la imagen para que quede detrás de la navbar */
+  margin-top: -11rem;
+
+  margin-bottom: 1.8rem;
+}
+.about-banner {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  object-position: center 75%;
+  display: block;
+}
+
+
+.full-bleed-banner-publications {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+
+  /* sube la imagen para que quede detrás de la navbar */
+  margin-top: -11rem;
+
+  margin-bottom: 1.8rem;
+}
+.publications-banner {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  object-position: center 50%;
+  display: block;
+}
+
+
+.full-bleed-banner-cv {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+
+  /* sube la imagen para que quede detrás de la navbar */
+  margin-top: -11rem;
+
+  margin-bottom: 1.8rem;
+}
+.cv-banner {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  object-position: center 60%;
+  display: block;
+}
